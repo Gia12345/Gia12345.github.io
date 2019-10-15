@@ -4,7 +4,7 @@
 
 ### Data Analysis/Data Science Projects
 
-[Project 1 Title](/sample_page)
+[Project 1 Title]()
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -14,7 +14,7 @@
 
 ---
 
-### Category Name 2
+### Big Data Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
