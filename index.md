@@ -13,7 +13,9 @@
 [Analysis of Anonymous Data using Logistic Regression and K Neighbors Classifier](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis)
 
 ---
+[Analysis using Tableau](https://public.tableau.com/profile/gia.g#!/)
 
+---
 ### Big Data Projects
 
 - [RDBMS to HDFS Project using SQL and Hive](https://github.com/Gia12345/Journey-Projects/tree/master/ETL-Big-Data-Projects/Table%20Load%20RDBMS%20to%20HDFS)
