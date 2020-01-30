@@ -4,8 +4,8 @@
 
 ### Data Analysis/Data Science Projects
 
-[Analysis of Neighborhood Venues](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project)
-
+[Analysis of Neighborhood Venues using clustering](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project)
+Project analyzed venues in 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 
