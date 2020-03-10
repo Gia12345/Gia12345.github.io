@@ -32,7 +32,7 @@
 - [Garden Tracker using Python (Flask and Rest APIs)](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/gardentracker)
 - [RDBMS to HDFS Project using SQL and Hive](https://github.com/Gia12345/Journey-Projects/tree/master/ETL-Big-Data-Projects/Table%20Load%20RDBMS%20to%20HDFS)
 - [Spark Project using Java](https://github.com/Gia12345/Journey-Projects/tree/master/ETL-Big-Data-Projects/Spark%20Project)
-- [Credit Card Application using Java](https://github.com/Gia12345/Journey-Projects/tree/master/ETL-Big-Data-Projects/Credit%20Card%20App%20Source)
+- [Credit Card Application using Java (JDBC) and SQL](https://github.com/Gia12345/Journey-Projects/tree/master/ETL-Big-Data-Projects/Credit%20Card%20App%20Source)
 
 ---
 
