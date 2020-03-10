@@ -19,6 +19,7 @@
 
 ---
 [Analysis of Anonymous Data using Logistic Regression and K Neighbors Classifier with python](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis)
+- Analyzed 40,000 records.
 - Python libraries used include sklearn, numpy, and pandas.
 - Created and used a personal library.
 - Used Spyder editor.
