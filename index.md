@@ -4,11 +4,11 @@
 
 ### Data Analysis / Data Science Projects
 
-[Analysis of Neighborhood Venues using Clustering using python including sklearn, geopy, numpy, pandas, and fuzzywuzzy libraries](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project)
+[Analysis of Neighborhood Venues using Clustering with python including sklearn, geopy, numpy, pandas, BeautifulSoup (web scraping), and fuzzywuzzy libraries](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project)
 
 ---
-[Analysis of Loan Interest Rates using Linear Regression](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis)
-
+[Analysis of Loan Interest Rates using Linear Regression with python using ](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis)
+Data included 400,000 records.
 ---
 [Analysis of Anonymous Data using Logistic Regression and K Neighbors Classifier](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis)
 
