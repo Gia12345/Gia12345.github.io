@@ -8,6 +8,7 @@
 [Analysis of Neighborhood Venues using Clustering with python](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project)
 - Python libraries used include sklearn, geopy, numpy, pandas, BeautifulSoup (web scraping), and fuzzywuzzy.
 - Used Jupyter notebook.
+
 ---
 [Analysis of Loan Interest Rates using Linear Regression with python](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis)
 - Analyzed 400,000 records.
