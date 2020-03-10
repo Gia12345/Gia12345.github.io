@@ -35,7 +35,6 @@
 - [Spark Project using Java](https://github.com/Gia12345/Journey-Projects/tree/master/ETL-Big-Data-Projects/Spark%20Project)
 - [Credit Card Application using Java (JDBC) and SQL](https://github.com/Gia12345/Journey-Projects/tree/master/ETL-Big-Data-Projects/Credit%20Card%20App%20Source)
 
----
 
 
 
