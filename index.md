@@ -26,6 +26,9 @@
 
 ---
 [Analysis using Tableau](https://public.tableau.com/profile/gia.g#!/)
+- [Loan Interest Rates](https://public.tableau.com/profile/gia.g#!/vizhome/LoanInterestRateAnalysis/JobIR)
+- [School Data](https://public.tableau.com/profile/gia.g#!/vizhome/UpliftSchools/Student1Db)
+- [Student Test Score Data](https://public.tableau.com/profile/gia.g#!/vizhome/EducationProjectFinal/TestScoreDashboard1)
 
 ---
 ## Big Data Projects
