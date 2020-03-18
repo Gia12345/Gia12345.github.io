@@ -14,7 +14,7 @@
 
 [Analysis of Loan Interest Rates using Linear Regression with python](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis)
 - Analyzed 400,000 records.
-- Python libraries used include sklearn, numpy, pandas, matplotlb, and seaborn.
+- Python libraries used include sklearn, numpy, pandas, matplotlib, and seaborn.
 - Used Jupyter notebook.
 
 ---
