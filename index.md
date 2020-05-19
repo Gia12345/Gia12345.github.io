@@ -20,7 +20,7 @@ Skills
 
 ---
 
-[Analysis of Loan Interest Rates using Linear Regression with python](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis)
+### [Analysis of Loan Interest Rates using Linear Regression with python](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis)
 
 Analyzed data from loans to predict loan interest rates.
 
@@ -32,7 +32,7 @@ Skills
 - [Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/LoanInterestRateAnalysis/JobIR)
 
 ---
-[Analysis of Anonymous Data using Logistic Regression and K Neighbors Classifier with python](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis)
+### [Analysis of Anonymous Data using Logistic Regression and K Neighbors Classifier with python](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis)
 
 Analyzed anonymous data to classify data into one of two categores.  Results reuqired were the probability that the record was classfied as 1 (vs 0).
 
@@ -45,7 +45,7 @@ Skills
 - Used Spyder editor.
 
 ---
-[Analysis of School Data](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Education%20Project)
+### [Analysis of School Data](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Education%20Project)
 
 Analyzed KPIs and made obervations and recommendations based on analysis.
 
@@ -57,7 +57,7 @@ Skills
 - Python libraries used include numpy and pandas.
 - [Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/UpliftSchools/Student1Db)
 
-[Other Analysis using Tableau](https://public.tableau.com/profile/gia.g#!/)
+### [Other Analysis using Tableau](https://public.tableau.com/profile/gia.g#!/)
 - [Student Test Score Data](https://public.tableau.com/profile/gia.g#!/vizhome/EducationProjectFinal/TestScoreDashboard1)
 
 ---
