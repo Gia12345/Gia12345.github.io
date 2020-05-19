@@ -12,6 +12,8 @@ Analyzed Walt Disney World Resort hotel locations to determine if new quick serv
 
 - [Report](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project/WDW%20Restaurant%20Locations%20Report%20Rev.pdf)
 
+Data from the following websites.
+
 Skills
 - All data was gathered from websites.
 - Python libraries used include sklearn, geopy, numpy, pandas, BeautifulSoup (web scraping), and fuzzywuzzy.
@@ -23,6 +25,8 @@ Skills
 
 Analyzed data from loans to predict loan interest rates.
 
+Data from csv file ([sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis/data/loan_interest_rates_slice.csv)
+
 Skills
 
 - Analyzed 400,000 records with 26 features.
@@ -33,7 +37,9 @@ Skills
 ---
 ### [Analysis of Anonymous Data using Logistic Regression and K Neighbors Classifier with python](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis)
 
-Analyzed anonymous data to classify data into one of two categores.  Results reuqired were the probability that the record was classfied as 1 (vs 0).
+Analyzed anonymous data to classify data into one of two categores.  Results required were the probability that the record was classfied as 1 (vs 0).
+
+Data from csv file.
 
 Skills
 
@@ -50,6 +56,8 @@ Analyzed KPIs and made obervations and recommendations based on analysis.
 
 - [Presentation of KPI Analysis](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/Gia%20Gillis%20Uplift%20Education%20Business%20Analyst%20Slides.pdf)
 - [Summary of Analysis](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/Gia%20Gillis%20Uplift%20Business%20Analyst%20Assessment%20Summary.pdf)
+
+Data from [Excel file](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/ABCDEF%20Network%20Integrated%20Dashboard_Business%20Analyst.xlsx)
 
 Skills
 
