@@ -29,7 +29,7 @@ Skills
 - Analyzed 400,000 records with 26 features.
 - Python libraries used include sklearn, numpy, pandas, matplotlib, and seaborn.
 - Used Jupyter notebook.
-- [Tableau]((https://public.tableau.com/profile/gia.g#!/vizhome/LoanInterestRateAnalysis/JobIR)
+- [Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/LoanInterestRateAnalysis/JobIR)
 
 ---
 [Analysis of Anonymous Data using Logistic Regression and K Neighbors Classifier with python](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis)
@@ -50,12 +50,12 @@ Skills
 Analyzed KPIs and made obervations and recommendations based on analysis.
 
 - [Presentation of KPI Analysis](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/Gia%20Gillis%20Uplift%20Education%20Business%20Analyst%20Slides.pdf)
-- [Summary of Analysis]https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/Gia%20Gillis%20Uplift%20Business%20Analyst%20Assessment%20Summary.pdf
+- [Summary of Analysis](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/Gia%20Gillis%20Uplift%20Business%20Analyst%20Assessment%20Summary.pdf)
 
 Skills
 
 - Python libraries used include numpy and pandas.
-- [Tableau]((https://public.tableau.com/profile/gia.g#!/vizhome/UpliftSchools/Student1Db)
+- [Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/UpliftSchools/Student1Db)
 
 [Other Analysis using Tableau](https://public.tableau.com/profile/gia.g#!/)
 - [Student Test Score Data](https://public.tableau.com/profile/gia.g#!/vizhome/EducationProjectFinal/TestScoreDashboard1)
