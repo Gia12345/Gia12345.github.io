@@ -42,7 +42,7 @@ Skills
 ---
 ### [Analysis of Anonymous Data using Logistic Regression and K Neighbors Classifier with python](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis)
 
-Analyzed anonymous data to classify data into one of two categores.  Results required were the probability that the record was classfied as 1 (vs 0).
+Analyzed anonymous data to classify data into one of two categores.  Created, trained, saved, and retrieved model to use on test data.  Results required were the probability that the record was classfied as 1 (vs 0).
 
 Data from csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis/data/exercise_02_trainslice_2.csv))
 
