@@ -25,7 +25,7 @@ Skills
 
 Analyzed data from loans to predict loan interest rates.
 
-Data from csv file ([sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis/data/loan_interest_rates_slice.csv)
+Data from csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis/data/loan_interest_rates_slice.csv))
 
 Skills
 
