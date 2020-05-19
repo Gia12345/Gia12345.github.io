@@ -69,8 +69,8 @@ Skills
 - Python libraries used include numpy and pandas.
 - [Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/UpliftSchools/Student1Db)
 
-### [Other Analysis using Tableau](https://public.tableau.com/profile/gia.g#!/)
-- [Student Test Score Data](https://public.tableau.com/profile/gia.g#!/vizhome/EducationProjectFinal/TestScoreDashboard1)
+---
+### [Analysis of Student Test Scores using Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/EducationProjectFinal/TestScoreDashboard1)
 
 ---
 ## Big Data Projects
