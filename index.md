@@ -39,7 +39,7 @@ Skills
 
 Analyzed anonymous data to classify data into one of two categores.  Results required were the probability that the record was classfied as 1 (vs 0).
 
-Data from csv file.
+Data from csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis/data/exercise_02_trainslice_2.csv))
 
 Skills
 
