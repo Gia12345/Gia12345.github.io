@@ -6,12 +6,14 @@
 
 ---
 
-###[Analysis of Neighborhood Venues using Clustering with python](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project)
+[Analysis of Neighborhood Venues using Clustering with python](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project)
 
-Details
+Analyzed Walt Disney World Resort hotel locations to determine if new quick service restaurant locations are needed.
+
 - [Report](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project/WDW%20Restaurant%20Locations%20Report%20Rev.pdf)
 
 Skills
+
 - All data was gathered from websites.
 - Python libraries used include sklearn, geopy, numpy, pandas, BeautifulSoup (web scraping), and fuzzywuzzy.
 - Used Jupyter notebook.
@@ -19,12 +21,22 @@ Skills
 ---
 
 [Analysis of Loan Interest Rates using Linear Regression with python](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis)
+
+Analyzed data from loans to predict loan interest rates.
+
+Skills
+
 - Analyzed 400,000 records with 26 features.
 - Python libraries used include sklearn, numpy, pandas, matplotlib, and seaborn.
 - Used Jupyter notebook.
 
 ---
 [Analysis of Anonymous Data using Logistic Regression and K Neighbors Classifier with python](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis)
+
+Analyzed anonymous data to classify data into one of two categores.  Results reuqired were the probability that the record was classfied as 1 (vs 0).
+
+Skills
+
 - Analyzed 40,000 records in the training set and 10,000 records in the test set.
 - Records included 100 features.
 - Python libraries used include sklearn, numpy, and pandas.
@@ -32,6 +44,8 @@ Skills
 - Used Spyder editor.
 
 ---
+[Analysis of School Data]
+
 [Analysis using Tableau](https://public.tableau.com/profile/gia.g#!/)
 - [Loan Interest Rates](https://public.tableau.com/profile/gia.g#!/vizhome/LoanInterestRateAnalysis/JobIR)
 - [School Data](https://public.tableau.com/profile/gia.g#!/vizhome/UpliftSchools/Student1Db)
