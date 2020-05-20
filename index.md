@@ -12,7 +12,7 @@ Analyzed Walt Disney World Resort hotel locations to determine if new quick serv
 
 #### [Report](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project/WDW%20Restaurant%20Locations%20Report%20Rev.pdf)
 
-#### Data from the following sources
+#### Data
 1.  The resort area in which the hotel is located is scraped from this web site, and this will be the master list of resort hotels.  This master list included two non-Disney owned resort hotels because they are grouped with Disney resort hotels in the same area.  (https://touringplans.com/walt-disney-world/hotels).
 2.  Longitude and latitude information for the resort hotels is required.  This information is retrieved using the resort hotel address from this website (https://touringplans.com/walt-disney-world/hotels/addresses) and TomTom.
 3.  The number of rooms for each resort hotel is retrieved from this web site (https://touringplans.com/walt-disney-world/hotels/number-rooms).
@@ -30,7 +30,8 @@ Analyzed Walt Disney World Resort hotel locations to determine if new quick serv
 
 Analyzed data from loans to predict loan interest rates.
 
-#### Data from csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis/data/loan_interest_rates_slice.csv))
+#### Data 
+From csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis/data/loan_interest_rates_slice.csv))
 
 #### Skills
 
@@ -47,7 +48,7 @@ Analyzed anonymous data to classify data into one of two categores.  Created, tr
 #### Data 
 From csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis/data/exercise_02_trainslice_2.csv))
 
-Skills
+#### Skills
 
 - Analyzed 40,000 records in the training set and 10,000 records in the test set.
 - Records included 100 features.
@@ -60,12 +61,13 @@ Skills
 
 Analyzed KPIs and made obervations and recommendations based on analysis.
 
+#### Report
 - [Presentation of KPI Analysis](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/Gia%20Gillis%20Uplift%20Education%20Business%20Analyst%20Slides.pdf)
 - [Summary of Analysis](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/Gia%20Gillis%20Uplift%20Business%20Analyst%20Assessment%20Summary.pdf)
 
 Data from [Excel file](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/ABCDEF%20Network%20Integrated%20Dashboard_Business%20Analyst.xlsx)
 
-Skills
+#### Skills
 
 - Python libraries used include numpy and pandas.
 - [Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/UpliftSchools/Student1Db)
