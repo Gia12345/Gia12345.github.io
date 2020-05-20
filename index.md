@@ -30,9 +30,9 @@ Analyzed Walt Disney World Resort hotel locations to determine if new quick serv
 
 Analyzed data from loans to predict loan interest rates.
 
-Data from csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis/data/loan_interest_rates_slice.csv))
+#### Data from csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis/data/loan_interest_rates_slice.csv))
 
-Skills
+#### Skills
 
 - Analyzed 400,000 records with 26 features.
 - Python libraries used include sklearn, numpy, pandas, matplotlib, and seaborn.
@@ -44,7 +44,8 @@ Skills
 
 Analyzed anonymous data to classify data into one of two categores.  Created, trained, saved, and retrieved model to use on test data.  Results required were the probability that the record was classfied as 1 (vs 0).
 
-Data from csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis/data/exercise_02_trainslice_2.csv))
+#### Data 
+From csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis/data/exercise_02_trainslice_2.csv))
 
 Skills
 
