@@ -14,9 +14,9 @@ Analyzed Walt Disney World Resort hotel locations to determine if new quick serv
 
 #### Data
 1.  The resort area in which the hotel is located is scraped from this web site, and this will be the master list of resort hotels.  This master list included two non-Disney owned resort hotels because they are grouped with Disney resort hotels in the same area.  (https://touringplans.com/walt-disney-world/hotels).
-2.  Longitude and latitude information for the resort hotels is required.  Using the resort hotel address from this website (https://touringplans.com/walt-disney-world/hotels/addresses), longitude and latitude are retrieved from TomTom.
+2.  Longitude and latitude information for the resort hotels is required.  Using the resort hotel address from this website (https://touringplans.com/walt-disney-world/hotels/addresses), longitude and latitude are retrieved from TomTom API.
 3.  The number of rooms for each resort hotel is retrieved from this web site (https://touringplans.com/walt-disney-world/hotels/number-rooms).
-4.  The number and types of venues near the resort hotel, which is accessed using Foursquare location data, is used.
+4.  The number and types of venues near the resort hotel, which is accessed using Foursquare API, is used.
 
 
 #### Skills
