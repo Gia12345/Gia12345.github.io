@@ -47,7 +47,7 @@ Analyzed data from loans to predict loan interest rates.
 Analyzed anonymous data to classify data into one of two categores.  Created, trained, saved, and retrieved models to use on test data.  Results required were the probability that the record was classfied as 1 (vs 0).
 
 #### Data 
-- From csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis/data/exercise_02_trainslice_2.csv))
+- From two csv files (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis/data/exercise_02_trainslice_2.csv)), one for training data and one for test data
 - 40,000 records in training set
 - 10,000 records in test set
 - 100 features
