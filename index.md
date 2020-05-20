@@ -3,6 +3,7 @@
 ---
 
 ## Data Analysis and Data Science Projects
+### Featuring Python and Tableau
 
 ---
 
@@ -80,6 +81,7 @@ From [Excel file](https://github.com/Gia12345/Journey-Projects/blob/master/Data-
 
 ---
 ## Big Data Projects
+### Featuring Big Data and SQL
 
 - [Garden Tracker using python (Flask and Rest APIs)](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/gardentracker)
 - [RDBMS to HDFS Project using SQL and Hive](https://github.com/Gia12345/Journey-Projects/tree/master/ETL-Big-Data-Projects/Table%20Load%20RDBMS%20to%20HDFS)
