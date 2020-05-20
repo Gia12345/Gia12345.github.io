@@ -2,7 +2,7 @@
 
 ---
 
-## Data Analysis / Data Science Projects
+## Data Analysis and Data Science Projects
 
 ---
 
