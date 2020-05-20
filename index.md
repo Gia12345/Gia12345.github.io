@@ -31,11 +31,12 @@ Analyzed Walt Disney World Resort hotel locations to determine if new quick serv
 Analyzed data from loans to predict loan interest rates.
 
 #### Data 
-From csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis/data/loan_interest_rates_slice.csv))
+- From csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis/data/loan_interest_rates_slice.csv))
+- 400,000 records
+- 26 features
 
 #### Skills
 
-- Analyzed 400,000 records with 26 features.
 - Python libraries used include sklearn, numpy, pandas, matplotlib, and seaborn.
 - Used Jupyter notebook.
 - [Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/LoanInterestRateAnalysis/JobIR)
@@ -43,15 +44,16 @@ From csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/ma
 ---
 ### [Analysis of Anonymous Data using Logistic Regression and K Neighbors Classifier with python](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis)
 
-Analyzed anonymous data to classify data into one of two categores.  Created, trained, saved, and retrieved model to use on test data.  Results required were the probability that the record was classfied as 1 (vs 0).
+Analyzed anonymous data to classify data into one of two categores.  Created, trained, saved, and retrieved models to use on test data.  Results required were the probability that the record was classfied as 1 (vs 0).
 
 #### Data 
-From csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis/data/exercise_02_trainslice_2.csv))
+- From csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis/data/exercise_02_trainslice_2.csv))
+- 40,000 records in training set
+- 10,000 records in test set
+- 100 features
 
 #### Skills
 
-- Analyzed 40,000 records in the training set and 10,000 records in the test set.
-- Records included 100 features.
 - Python libraries used include sklearn, numpy, and pandas.
 - Created and used a personal library.
 - Used Spyder editor.
