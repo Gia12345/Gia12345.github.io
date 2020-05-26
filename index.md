@@ -32,7 +32,9 @@ Analyzed Walt Disney World Resort hotel locations to determine if new quick serv
 
 Analyzed data from loans to predict loan interest rates.
 
-- #### [Analysis](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis)
+- #### Analysis
+    - [Jupyter Notebooks](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis)
+    - [Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/LoanInterestRateAnalysis/JobIR)
 
 - #### Data 
     - From csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis/data/loan_interest_rates_slice.csv))
@@ -43,7 +45,7 @@ Analyzed data from loans to predict loan interest rates.
 
     - Python libraries used include sklearn, numpy, pandas, matplotlib, and seaborn.
     - Used Jupyter notebook.
-    - [Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/LoanInterestRateAnalysis/JobIR)
+    - Used Tableau
 
 ---
 ### Analysis of Anonymous Data Using Logistic Regression and K Neighbors Classifier With Python
@@ -69,7 +71,10 @@ Analyzed anonymous data to classify data into one of two categores.  Created, tr
 
 Analyzed KPIs and made obervations and recommendations based on analysis.
 
-- #### [Analysis](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Education%20Project)
+- #### Analysis
+    - [Jupyter Notebooks](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Education%20Project)
+    - [Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/UpliftSchools/Student1Db)
+
 
 - #### Report
     - [Presentation of KPI Analysis](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/Gia%20Gillis%20Uplift%20Education%20Business%20Analyst%20Slides.pdf)
@@ -81,7 +86,7 @@ Analyzed KPIs and made obervations and recommendations based on analysis.
 - #### Skills
 
     - Python libraries used include numpy and pandas.
-    - [Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/UpliftSchools/Student1Db)
+    - Used Tableau.
 
 ---
 ### [Analysis of Student Test Scores using Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/EducationProjectFinal/TestScoreDashboard1)
