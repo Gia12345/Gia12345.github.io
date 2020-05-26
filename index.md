@@ -32,56 +32,56 @@
 
 **Analyzed data from loans to predict loan interest rates.**
 
-#### [Analysis](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis)
+- #### [Analysis](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis)
 
-#### Data 
-- From csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis/data/loan_interest_rates_slice.csv))
-- 400,000 records
-- 26 features
+- #### Data 
+    - From csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis/data/loan_interest_rates_slice.csv))
+    - 400,000 records
+    - 26 features
 
-#### Skills
+- #### Skills
 
-- Python libraries used include sklearn, numpy, pandas, matplotlib, and seaborn.
-- Used Jupyter notebook.
-- [Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/LoanInterestRateAnalysis/JobIR)
+    - Python libraries used include sklearn, numpy, pandas, matplotlib, and seaborn.
+    - Used Jupyter notebook.
+    - [Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/LoanInterestRateAnalysis/JobIR)
 
 ---
 ### Analysis of Anonymous Data Using Logistic Regression and K Neighbors Classifier With Python
 
 **Analyzed anonymous data to classify data into one of two categores.  Created, trained, saved, and retrieved models to use on test data.  Results required were the probability that the record was classfied as 1 (vs 0).**
 
-#### [Analysis](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis)
+- #### [Analysis](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis)
 
-#### Data 
-- From two csv files (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis/data/exercise_02_trainslice_2.csv)), one for training data and one for test data
-- 40,000 records in training set
-- 10,000 records in test set
-- 100 features
+- #### Data 
+    - From two csv files (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis/data/exercise_02_trainslice_2.csv)), one for training data and one for test data
+    - 40,000 records in training set
+    - 10,000 records in test set
+    - 100 features
 
-#### Skills
+- #### Skills
 
-- Python libraries used include sklearn, numpy, and pandas.
-- Created and used a personal library.
-- Used Spyder editor.
+    - Python libraries used include sklearn, numpy, and pandas.
+    - Created and used a personal library.
+    - Used Spyder editor.
 
 ---
 ### Analysis of School Data
 
 **Analyzed KPIs and made obervations and recommendations based on analysis.**
 
-#### [Analysis](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Education%20Project)
+- #### [Analysis](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Education%20Project)
 
-#### Report
-- [Presentation of KPI Analysis](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/Gia%20Gillis%20Uplift%20Education%20Business%20Analyst%20Slides.pdf)
-- [Summary of Analysis](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/Gia%20Gillis%20Uplift%20Business%20Analyst%20Assessment%20Summary.pdf)
+- #### Report
+    - [Presentation of KPI Analysis](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/Gia%20Gillis%20Uplift%20Education%20Business%20Analyst%20Slides.pdf)
+    - [Summary of Analysis](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/Gia%20Gillis%20Uplift%20Business%20Analyst%20Assessment%20Summary.pdf)
 
-#### Data 
+- #### Data 
 From [Excel file](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/ABCDEF%20Network%20Integrated%20Dashboard_Business%20Analyst.xlsx)
 
-#### Skills
+- #### Skills
 
-- Python libraries used include numpy and pandas.
-- [Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/UpliftSchools/Student1Db)
+    - Python libraries used include numpy and pandas.
+    - [Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/UpliftSchools/Student1Db)
 
 ---
 ### [Analysis of Student Test Scores using Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/EducationProjectFinal/TestScoreDashboard1)
