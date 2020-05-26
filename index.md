@@ -86,6 +86,7 @@ Analyzed KPIs and made obervations and recommendations based on analysis.
 - #### Skills
 
     - Python libraries used include numpy and pandas.
+    - Used Jupyter Notebooks.
     - Used Tableau.
 
 ---
