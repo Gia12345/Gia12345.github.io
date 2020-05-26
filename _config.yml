@@ -14,7 +14,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Big Data
   <br><br>
   <a href="https://www.linkedin.com/in/giaeaconogillis/"><img src="/images/linkedin image.png" alt="Flowers in Chania">
-  <a href="https://github.com/Gia12345"><img src="/images/GitHub-Mark-32px.png" alt="Flowers">
+  # <a href="https://github.com/Gia12345"><img src="/images/GitHub-Mark-32px.png" alt="Flowers">
 
   
 theme: jekyll-theme-minimal
