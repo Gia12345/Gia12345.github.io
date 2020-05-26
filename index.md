@@ -76,7 +76,7 @@
     - [Summary of Analysis](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/Gia%20Gillis%20Uplift%20Business%20Analyst%20Assessment%20Summary.pdf)
 
 - #### Data 
-From [Excel file](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/ABCDEF%20Network%20Integrated%20Dashboard_Business%20Analyst.xlsx)
+    From [Excel file](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/ABCDEF%20Network%20Integrated%20Dashboard_Business%20Analyst.xlsx)
 
 - #### Skills
 
