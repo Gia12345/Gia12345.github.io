@@ -30,7 +30,7 @@ Analyzed Walt Disney World Resort hotel locations to determine if new quick serv
 
 ### Analysis of Loan Interest Rates Using Linear Regression With Python
 
-**Analyzed data from loans to predict loan interest rates.**
+Analyzed data from loans to predict loan interest rates.
 
 - #### [Analysis](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis)
 
@@ -48,7 +48,7 @@ Analyzed Walt Disney World Resort hotel locations to determine if new quick serv
 ---
 ### Analysis of Anonymous Data Using Logistic Regression and K Neighbors Classifier With Python
 
-**Analyzed anonymous data to classify data into one of two categores.  Created, trained, saved, and retrieved models to use on test data.  Results required were the probability that the record was classfied as 1 (vs 0).**
+Analyzed anonymous data to classify data into one of two categores.  Created, trained, saved, and retrieved models to use on test data.  Results required were the probability that the record was classfied as 1 (vs 0).
 
 - #### [Analysis](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis)
 
@@ -67,7 +67,7 @@ Analyzed Walt Disney World Resort hotel locations to determine if new quick serv
 ---
 ### Analysis of School Data
 
-**Analyzed KPIs and made obervations and recommendations based on analysis.**
+Analyzed KPIs and made obervations and recommendations based on analysis.
 
 - #### [Analysis](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Education%20Project)
 
