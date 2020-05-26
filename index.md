@@ -8,7 +8,7 @@
 
 ### Analysis of Neighborhood Venues Using Clustering With Python
 
-**Analyzed Walt Disney World Resort hotel locations to determine if new quick service restaurant locations are needed.**
+Analyzed Walt Disney World Resort hotel locations to determine if new quick service restaurant locations are needed.
 
 - #### [Analysis](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project)
 
