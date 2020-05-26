@@ -10,7 +10,7 @@
 
 **Analyzed Walt Disney World Resort hotel locations to determine if new quick service restaurant locations are needed.**
 
-#### - [Analysis](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project)
+- #### [Analysis](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project)
 
 #### [Report](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project/WDW%20Restaurant%20Locations%20Report%20Rev.pdf)
 
