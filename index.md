@@ -13,7 +13,8 @@ Analyzed Walt Disney World Resort hotel locations to determine if new quick serv
 - #### Analysis
     [Jupyter Notebooks](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project/WDW%20Restaurant%20Locations/Analysis)
 
-- #### [Report](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project/WDW%20Restaurant%20Locations/WDW%20Restaurant%20Locations%20Report%20Rev.pdf)
+- #### [Report]
+    [Summary of Analysis with Visualizations](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project/WDW%20Restaurant%20Locations/WDW%20Restaurant%20Locations%20Report%20Rev.pdf)
 
 - #### Data
     1.  The resort area in which the hotel is located is scraped from this web site, and this will be the master list of resort hotels.  This master list included two non-Disney owned resort hotels because they are grouped with Disney resort hotels in the same area.  (https://touringplans.com/walt-disney-world/hotels).
@@ -49,7 +50,7 @@ Analyzed data from loans to predict loan interest rates.
     - Used Tableau
 
 ---
-### Analysis of Anonymous Data Using Logistic Regression and K Neighbors Classifier With Python
+### Analysis of Anonymous Data Using Classification (Logistic Regression and K Neighbors Classifier) With Python
 
 Analyzed anonymous data to classify data into one of two categores.  Created, trained, saved, and retrieved models to use on test data.  Results required were the probability that the record was classfied as 1 (vs 0).
 
