@@ -97,8 +97,8 @@ Analyzed KPIs and made obervations and recommendations based on analysis.
     
 - #### Data
     From 2 csv files
-    - act.csv contains sample of test score data (originally 42000 records with 8 columns) [see sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Student%20Test%20Scores/data/act%20sample.csv)
-    - student.csv contains sample of student data (originally 50000 records with 6 columns) [see sample] (https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Student%20Test%20Scores/data/students%20sample.csv)
+    - [act sample.csv](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Student%20Test%20Scores/data/act%20sample.csv) contains sample of test score data (originally 42000 records with 8 columns)
+    - [students sample.csv](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Student%20Test%20Scores/data/students%20sample.csv) contains sample of student data (originally 50000 records with 6 columns)
 
 ---
 ## Big Data Projects
