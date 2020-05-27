@@ -10,7 +10,8 @@
 
 Analyzed Walt Disney World Resort hotel locations to determine if new quick service restaurant locations are needed.
 
-- #### [Analysis](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project/WDW%20Restaurant%20Locations/Analysis)
+- #### Analysis
+    [Jupyter Notebooks](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project/WDW%20Restaurant%20Locations/Analysis)
 
 - #### [Report](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project/WDW%20Restaurant%20Locations/WDW%20Restaurant%20Locations%20Report%20Rev.pdf)
 
@@ -52,7 +53,8 @@ Analyzed data from loans to predict loan interest rates.
 
 Analyzed anonymous data to classify data into one of two categores.  Created, trained, saved, and retrieved models to use on test data.  Results required were the probability that the record was classfied as 1 (vs 0).
 
-- #### [Analysis](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis)
+- #### Analysis
+    [Python files](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis)
 
 - #### Data 
     From two csv files, one for training data and one for testing data
