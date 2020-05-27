@@ -70,7 +70,7 @@ Analyzed anonymous data to classify data into one of two categores.  Created, tr
     - Used Spyder editor.
 
 ---
-### Analysis of School Data
+### Analysis of School Data With Python and Tableau
 
 Analyzed KPIs and made obervations and recommendations based on analysis.
 
@@ -93,7 +93,7 @@ Analyzed KPIs and made obervations and recommendations based on analysis.
     - Used Tableau.
 
 ---
-### Analysis of Student Test Scores
+### Analysis of Student Test Scores With Tableau
 
 Analyzed ACT scores by joining two data sets on student ID and testing year.
 
@@ -107,6 +107,7 @@ Analyzed ACT scores by joining two data sets on student ID and testing year.
 
 - #### Skills
     Tableau
+    
 ---
 ## Big Data Projects
 
