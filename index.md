@@ -92,6 +92,8 @@ Analyzed KPIs and made obervations and recommendations based on analysis.
 ---
 ### Analysis of Student Test Scores
 
+Analyzed ACT scores by joining two data sets on student ID and testing year.
+
 - #### Analysis
     [Tableau Visualizations and Dashboards](https://public.tableau.com/profile/gia.g#!/vizhome/EducationProjectFinal/TestScoreDashboard1)
     
@@ -100,6 +102,8 @@ Analyzed KPIs and made obervations and recommendations based on analysis.
     - [act sample.csv](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Student%20Test%20Scores/data/act%20sample.csv) contains sample of test score data (originally 42,000 records with 8 columns)
     - [students sample.csv](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Student%20Test%20Scores/data/students%20sample.csv) contains sample of student data (originally 50,000 records with 6 columns)
 
+- #### Skills
+    Tableau
 ---
 ## Big Data Projects
 
