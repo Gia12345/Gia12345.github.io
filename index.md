@@ -55,10 +55,10 @@ Analyzed anonymous data to classify data into one of two categores.  Created, tr
 - #### [Analysis](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis)
 
 - #### Data 
-    - From two csv files (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis/data/exercise_02_trainslice_2.csv)), one for training data and one for test data
-    - 40,000 records in training set
-    - 10,000 records in test set
-    - 100 features
+    From two csv files, one for training data and one for testing data
+    - 40,000 records in training set (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis/data/exercise_02_trainslice_2.csv))
+    - 10,000 records in test set (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis/data/exercise_02_testslice_2.csv))
+    - 100 features in each
 
 - #### Skills
 
@@ -96,9 +96,9 @@ Analyzed KPIs and made obervations and recommendations based on analysis.
     [Tableau Visualizations and Dashboards](https://public.tableau.com/profile/gia.g#!/vizhome/EducationProjectFinal/TestScoreDashboard1)
     
 - #### Data
-    From 2 csv files
-    - [act sample.csv](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Student%20Test%20Scores/data/act%20sample.csv) contains sample of test score data (originally 42000 records with 8 columns)
-    - [students sample.csv](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Student%20Test%20Scores/data/students%20sample.csv) contains sample of student data (originally 50000 records with 6 columns)
+    From two csv files
+    - [act sample.csv](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Student%20Test%20Scores/data/act%20sample.csv) contains sample of test score data (originally 42,000 records with 8 columns)
+    - [students sample.csv](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Student%20Test%20Scores/data/students%20sample.csv) contains sample of student data (originally 50,000 records with 6 columns)
 
 ---
 ## Big Data Projects
