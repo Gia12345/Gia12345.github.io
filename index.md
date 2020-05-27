@@ -50,7 +50,8 @@ Analyzed data from loans to predict loan interest rates.
     - Used Tableau
 
 ---
-### Analysis of Anonymous Data Using Classification (Logistic Regression and K Neighbors Classifier) With Python
+### Analysis of Anonymous Data Using Classification With Python
+### (Logistic Regression and K Neighbors Classifier) 
 
 Analyzed anonymous data to classify data into one of two categores.  Created, trained, saved, and retrieved models to use on test data.  Results required were the probability that the record was classfied as 1 (vs 0).
 
