@@ -34,7 +34,7 @@ Analyzed data from loans to predict loan interest rates.
 
 - #### Analysis
     - [Jupyter Notebooks](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis)
-    - [Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/LoanInterestRateAnalysis/JobIR)
+    - [Tableau Visualizations and Dashboards](https://public.tableau.com/profile/gia.g#!/vizhome/LoanInterestRateAnalysis/JobIR)
 
 - #### Data 
     - From csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis/data/loan_interest_rates_slice.csv))
@@ -90,7 +90,12 @@ Analyzed KPIs and made obervations and recommendations based on analysis.
     - Used Tableau.
 
 ---
-### [Analysis of Student Test Scores using Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/EducationProjectFinal/TestScoreDashboard1)
+### Analysis of Student Test Scores
+
+- #### Analysis
+    [Tableau Visualizations and Dashboards](https://public.tableau.com/profile/gia.g#!/vizhome/EducationProjectFinal/TestScoreDashboard1)
+    
+- #### Data
 
 ---
 ## Big Data Projects
