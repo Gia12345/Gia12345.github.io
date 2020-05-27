@@ -72,13 +72,13 @@ Analyzed anonymous data to classify data into one of two categores.  Created, tr
 Analyzed KPIs and made obervations and recommendations based on analysis.
 
 - #### Analysis
-    - [Jupyter Notebooks](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Education%20Project)
-    - [Tableau](https://public.tableau.com/profile/gia.g#!/vizhome/UpliftSchools/Student1Db)
+    - [Jupyter Notebook](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/%20Clean%20Data.ipynb)
+    - [Tableau Visualizations and Dashboards](https://public.tableau.com/profile/gia.g#!/vizhome/UpliftSchools/Student1Db)
 
 
 - #### Report
-    - [Presentation of KPI Analysis](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/Gia%20Gillis%20Uplift%20Education%20Business%20Analyst%20Slides.pdf)
-    - [Summary of Analysis](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/Gia%20Gillis%20Uplift%20Business%20Analyst%20Assessment%20Summary.pdf)
+    - [Presentation of KPI Analysis (Slides)](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/Gia%20Gillis%20Uplift%20Education%20Business%20Analyst%20Slides.pdf)
+    - [Summary of KPI Analysis](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/Gia%20Gillis%20Uplift%20Business%20Analyst%20Assessment%20Summary.pdf)
 
 - #### Data 
     From [Excel file](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/ABCDEF%20Network%20Integrated%20Dashboard_Business%20Analyst.xlsx)
