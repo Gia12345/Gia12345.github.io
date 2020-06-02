@@ -75,7 +75,7 @@ Analyzed anonymous data to classify data into one of two categores.  Created, tr
 Analyzed KPIs and made obervations and recommendations based on analysis.
 
 - #### Analysis
-    - [Jupyter Notebook](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/%20Clean%20Data.ipynb)
+    - [Jupyter Notebook](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Education%20Project/Clean%20Data%20Backup.ipynb)
     - [Tableau Visualizations and Dashboards](https://public.tableau.com/profile/gia.g#!/vizhome/UpliftSchools/Student1Db)
 
 
