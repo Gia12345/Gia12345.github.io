@@ -38,6 +38,9 @@ Analyzed data from loans to predict loan interest rates.
     - [Jupyter Notebooks](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis)
     - [Tableau Visualizations and Dashboards](https://public.tableau.com/profile/gia.g#!/vizhome/LoanInterestRateAnalysis/JobIR)
 
+- #### Report
+    [Summary of Loan Interet Rate Analysis](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis/Summary%20of%20Loan%20Interest%20Rate%20Analysis.pdf)
+
 - #### Data 
     - From csv file (see [sample](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis/data/loan_interest_rates_slice.csv))
     - 400,000 records
