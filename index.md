@@ -35,7 +35,7 @@ Analyzed Walt Disney World Resort hotel locations to determine if new quick serv
 Analyzed data from loans to predict loan interest rates.
 
 - #### Analysis
-    - [Jupyter Notebooks](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis)
+    - [Jupyter Notebooks](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Loan%20Interest%20Rate%20Analysis/Analysis)
     - [Tableau Visualizations and Dashboards](https://public.tableau.com/profile/gia.g#!/vizhome/LoanInterestRateAnalysis/JobIR)
 
 - #### Report
