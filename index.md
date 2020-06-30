@@ -14,7 +14,7 @@ Analyzed Walt Disney World Resort hotel locations to determine if new quick serv
     [Jupyter Notebooks](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project/WDW%20Restaurant%20Locations/Analysis)
 
 - #### Report
-    [Summary of Analysis with Visualizations](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project/WDW%20Restaurant%20Locations/WDW%20Restaurant%20Locations%20Report%20Rev.pdf)
+    [Summary of Analysis with Visualizations](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/IBM%20Data%20Science%20Certificate%20Capstone%20Project/WDW%20Restaurant%20Locations/WDW%20Restaurant%20Locations%20Report%20Rev%20(2).pdf)
 
 - #### Data
     1.  The resort area in which the hotel is located is scraped from this web site, and this will be the master list of resort hotels.  This master list included two non-Disney owned resort hotels because they are grouped with Disney resort hotels in the same area.  (https://touringplans.com/walt-disney-world/hotels).
