@@ -19,9 +19,9 @@ Worked on a team in the Machine Learning for Social Good Hackathon to predict ou
    
 - #### Data
     - Features were gathered from various web sites on 254 counties (records).
-    - Features included demographic data such as population, income, home values, health, facilities (airports, hospitals, nursing homes, military), voting records, and land use.
+    - Features included data such as population, income, home values, health, facilities (airports, hospitals, nursing homes, military), voting records, and land use.
     - From web sites, 23 data sets were downloaded or created with a total of 123 features.
-    - [See csv, excel, and txt files.](https://github.com/Gia12345/Social-Good-Hackathon/tree/master/data)
+    - [See csv and Excel files.](https://github.com/Gia12345/Social-Good-Hackathon/tree/master/data)
 
 - #### Skills
     - Python libraries used include sklearn, numpy, pandas, matplotlib, and seaborn.
