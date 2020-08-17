@@ -8,7 +8,7 @@
 
 ### Analysis of Covid19 and Texas Counties Using Regression with Python (Linear Regression, Ridge, Lasso, Elastic Net, Support Vector Regressor, Decision Tree Regressor)
 
-Worked on a team in the Machine Learning for Social Good Hackathon.  Used data on Texas counties to predict outcomes of Covid19.
+Worked on a team in the Machine Learning for Social Good Hackathon to predict outcomes of Covid19 in Texas counties.
 
 - #### Analysis
     [Jupyter Notebooks](https://github.com/Gia12345/Social-Good-Hackathon/tree/master/analysis)
