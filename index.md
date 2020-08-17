@@ -17,11 +17,16 @@ Worked on a team in the Machine Learning for Social Good Hackathon.  Used data o
     [Presentation](https://github.com/Gia12345/Social-Good-Hackathon/blob/master/Data_Liberation_pres_final.pdf)
    
 - #### Data
-    - [See csv, excel, and txt files](https://github.com/Gia12345/Social-Good-Hackathon/tree/master/data)
-    - 23 files used with a total of 123 features
-    - 254 counties (records)
-    - Features included demographic data such as populatin, income, home values, health, facilities (airports, hospitals, nursing homes, military),
-        voting records, and land use
+    - Features were gathered from various web sites on 254 counties (records).
+    - Features included demographic data such as populatin, income, home values, health, facilities (airports, hospitals, nursing homes, military), voting records, and land use.
+    - From web sites, 23 data sets were used with a total of 123 features.
+    - [See csv, excel, and txt files.](https://github.com/Gia12345/Social-Good-Hackathon/tree/master/data)
+
+- #### Skills
+    - Python libraries used include sklearn, numpy, pandas, matplotlib, and seaborn.
+    - Used Jupyter notebook.
+    - Loaded data into AWS S3.
+    - Utilized AWS Amazon Sagemaker to run Jupyter Notebooks.
     
 ### Analysis of Neighborhood Venues Using Clustering With Python
 
