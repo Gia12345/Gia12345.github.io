@@ -6,6 +6,23 @@
 
 ---
 
+### Analysis of Covid19 and Texas Counties Using Regression
+
+Worked on a team in the Machine Learning for Social Good Hackathon.  Used data on Texas counties to predict outcomes of Covid19.
+
+- #### Analysis
+    [Jupyter Notebooks](https://github.com/Gia12345/Social-Good-Hackathon/tree/master/analysis)
+    
+- #### Report
+    [Presentation](https://github.com/Gia12345/Social-Good-Hackathon/blob/master/Data_Liberation_pres_final.pdf)
+   
+- #### Data
+    - [See csv, excel, and txt files](https://github.com/Gia12345/Social-Good-Hackathon/tree/master/data)
+    - 23 files used with a total of 123 features
+    - 254 counties (records)
+    - Features included demographic data such as populatin, income, home values, health, facilities (airports, hospitals, nursing homes, military),
+        voting records, and land use
+    
 ### Analysis of Neighborhood Venues Using Clustering With Python
 
 Analyzed Walt Disney World Resort hotel locations to determine if new quick service restaurant locations are needed.
