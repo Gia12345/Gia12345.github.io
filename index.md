@@ -6,7 +6,7 @@
 
 ---
 
-### Analysis of Covid19 and Texas Counties Using Regression
+### Analysis of Covid19 and Texas Counties Using Regression with Python (Linear Regression, Ridge, Lasso, Elastic Net, Support Vector Regressor, Decision Tree Regressor)
 
 Worked on a team in the Machine Learning for Social Good Hackathon.  Used data on Texas counties to predict outcomes of Covid19.
 
@@ -18,8 +18,8 @@ Worked on a team in the Machine Learning for Social Good Hackathon.  Used data o
    
 - #### Data
     - Features were gathered from various web sites on 254 counties (records).
-    - Features included demographic data such as populatin, income, home values, health, facilities (airports, hospitals, nursing homes, military), voting records, and land use.
-    - From web sites, 23 data sets were used with a total of 123 features.
+    - Features included demographic data such as population, income, home values, health, facilities (airports, hospitals, nursing homes, military), voting records, and land use.
+    - From web sites, 23 data sets were downloaded or created with a total of 123 features.
     - [See csv, excel, and txt files.](https://github.com/Gia12345/Social-Good-Hackathon/tree/master/data)
 
 - #### Skills
