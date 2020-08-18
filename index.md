@@ -28,7 +28,9 @@ Worked on a team in the Machine Learning for Social Good Hackathon to predict ou
     - Used Jupyter notebook.
     - Loaded data into AWS S3.
     - Utilized AWS Amazon Sagemaker to run Jupyter Notebooks.
-    
+
+---
+
 ### Analysis of Neighborhood Venues Using Clustering With Python
 
 Analyzed Walt Disney World Resort hotel locations to determine if new quick service restaurant locations are needed.
