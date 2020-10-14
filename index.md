@@ -79,12 +79,17 @@ Analyzed data from loans to predict loan interest rates.
 
 ---
 ### Analysis of Anonymous Data Using Classification With Python 
-#### (Logistic Regression and K Neighbors Classifier) 
+#### (Logistic Regression and Voting Classifier) 
 
-Analyzed anonymous data to classify data into one of two categores.  Created, trained, saved, and retrieved models to use on test data to mimic production. 
+Analyzed anonymous data to classify data into one of two categores.  Tested various models and chose two with highest metric.  Created, trained, saved, and retrieved the final two models to use on test data to mimic production. 
 
 - #### Analysis
-    [Python files](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis)
+    - [Python file testing various models](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis/analysis/model%20tests%20revised.py)
+    - [Python file with chosen models](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis/analysis/final%20code%20revised.py)
+    - [All Python files](https://github.com/Gia12345/Journey-Projects/tree/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis/analysis)
+
+- #### Report
+    [Summary of Anonymous Data Analysis](https://github.com/Gia12345/Journey-Projects/blob/master/Data-Science-Data-Analysis-Projects/Anonymous%20Data%20Analysis/Report%20of%20Anonymous%20Data%20Analysis.pdf)
 
 - #### Data 
     From two csv files, one for training data and one for testing data
